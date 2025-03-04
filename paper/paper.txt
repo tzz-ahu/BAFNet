@@ -1,0 +1,1 @@
+Bidirectional Alternating Fusion Network for RGB-T Salient Object Detection
